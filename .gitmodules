@@ -1,0 +1,6 @@
+[submodule "vendor/LMDB_File"]
+	path = vendor/LMDB_File
+	url = git@github.com:akotlar/LMDB_File.git
+[submodule "vendor/seq-vcf"]
+	path = vendor/seq-vcf
+	url = git@github.com:akotlar/seq-vcf
